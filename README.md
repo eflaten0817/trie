@@ -1,2 +1,2 @@
 # trie
-Implementing a Trie structure to store Strings
+A trie structure to store Strings
